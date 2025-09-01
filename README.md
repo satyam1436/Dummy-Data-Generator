@@ -22,12 +22,6 @@ Whenever a user clicks the **Generate Data** button, **10 random data records** 
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots or GIFs of your project here if available_
-
----
-
 ## 🛠️ Installation & Setup
 
 Follow these steps to run the project locally:
